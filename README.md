@@ -1,2 +1,2 @@
 # skills-ssh
-Simple and basic skills for SSH access
+Simple skills for SSH access
